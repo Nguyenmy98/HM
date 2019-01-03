@@ -1,14 +1,15 @@
 <?php
-    include("header.php");
+    include("./includes/header.php");
 ?>
 <br>
 <div id="phim" style="background-color: whitesmoke">
     <div class="row">
         <br> <br>
         <center><font face="Comic sans MS" size="7" >Sở Hữu Quyển Sách Phép Thuật Với Combo Fantastic Beasts 6677</font> </center> </div>
-<div class="col-md-12">  
+    <div class="col-md-1" > </div>   
+        <div class="col-md-10">  
         <br> <br>
-<center><img src= "./img/km22.jpg" class="img-thumbnail" alt="">
+<img src= "./style/img/km22.jpg" class="img-thumbnail" alt="">
     <br> <br>
     <span style="font-size: 15px">
     <p>
@@ -28,6 +29,7 @@
     •    Ngoài ra, tặng thêm 10% cho thành viên G-Star khi mua Combo Fantastic Beasts 2 tại quầy.</p></span>
     </div>
 </div>
+</div>
 <?php
-    include("footer.php");
+    include("./includes/footer.php");
 ?>

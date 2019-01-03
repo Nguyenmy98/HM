@@ -1,15 +1,16 @@
 <?php
-    include("header.php");
+    include("./includes/header.php");
 ?>
 <br>
 <div id="phim" style="background-color: whitesmoke">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">
 
         <br> <br>
-        <center> <font face="Comic sans MS" size="7" >Móc Khóa Cực Cool Chào Bumblebee Trở Lại</font> 
+        <font face="Comic sans MS" size="7" >Móc Khóa Cực Cool Chào Bumblebee Trở Lại</font> 
         <span style="font-size: 15px">
-            <p> Ngay từ khi mới xuất hiện trong Transformers, người máy Bumblebee đã nhanh chóng chiếm lấy trái tim người hâm mộ loạt phim <br> <br>
+            <p> <br>Ngay từ khi mới xuất hiện trong Transformers, người máy Bumblebee đã nhanh chóng chiếm lấy trái tim người hâm mộ loạt phim <br> <br>
              bom tấn này và trở thành một trong những cái tên đình đám nhất. Năm nay, Bumblebee sẽ “xuất trận” mà không có người bạn <br> <br>
               Optimus Prime bên cạnh trong bộ phim của riêng cậu chàng. <br> <br>
 
@@ -26,14 +27,14 @@
 
             •    Ngoài ra, tặng thêm 10% cho thành viên G-Star khi mua móc khóa Bumblebee tại quầy. <br> <br>
 </p></span>
-</div></center>
+</div>
 <div class="col-md-12">  
         <br> <br>
-<center><img src= "./img/km11.jpg" class="img-thumbnail" alt="">
+<center><img src= "./style/img/km11.jpg" class="img-thumbnail" alt="">
 
 </div>
 </div>
 
 <?php
-    include("footer.php");
+    include("./includes/footer.php");
 ?>

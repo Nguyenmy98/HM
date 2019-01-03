@@ -1,13 +1,15 @@
 <?php
-    include("header.php");
+    include("./includes/header.php");
 ?>
 <br>
 <div id="phim" style="background-color: whitesmoke">
     <div class="row">
-        <div class="col-md-12">
+
+    <div class="col-md-2"></div>
+        <div class="col-md-8">
         <br> <br>
-        <center> <font face="Comic sans MS" size="7">Săn Vé Rinh Quà Liền Tay Cùng FIM+ </font> </center>  
-<br> <br><center>
+        <font face="Comic sans MS" size="7">Săn Vé Rinh Quà Liền Tay Cùng FIM+ </font> 
+<br> <br>
 <span style="font-size: 15px">
     <p>
     Mọt phim” không thể bỏ qua cơ hội luyện phim không giới hạn cùng chương trình ưu đãi siêu cấp hấp dẫn nhất<br> <br>
@@ -24,10 +26,10 @@
     Chương trình sẽ kết thúc vào ngày 28/01/2019 hoặc khi phát hết số lượng voucher tùy điều kiện nào đến trước<br> <br>
     Trong mọi trường hợp quyết định của HM Cinema là quyết định cuối cùng<br> <br>
     Thông tin chi tiết về ứng dụng FIM+ xin liên hệ hotline: 1800 9090<br> <br>
-    </p></span></center> 
+    </p></span>
         <br> <br>
-<center><img src= "./img/km55.jpg" class="img-thumbnail" alt=""></center> 
+    <img src= "./style/img/km55.jpg" class="img-thumbnail" alt="">
 </div>
 </div>
 <?php
-    include("footer.php");
+    include("./includes/footer.php");
